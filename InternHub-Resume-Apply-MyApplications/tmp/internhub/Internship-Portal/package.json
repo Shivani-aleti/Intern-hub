@@ -1,0 +1,11 @@
+{
+  "name": "internhub",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix job-portal-client run dev",
+    "build": "npm --prefix job-portal-client run build",
+    "client": "npm --prefix job-portal-client run dev",
+    "server": "npm --prefix job-portal-server start"
+  }
+}
